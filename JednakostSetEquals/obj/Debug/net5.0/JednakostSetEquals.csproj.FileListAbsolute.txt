@@ -1,0 +1,16 @@
+/home/kameleon/Desktop/JednakostSetEquals/JednakostSetEquals/bin/Debug/net5.0/JednakostSetEquals
+/home/kameleon/Desktop/JednakostSetEquals/JednakostSetEquals/bin/Debug/net5.0/JednakostSetEquals.deps.json
+/home/kameleon/Desktop/JednakostSetEquals/JednakostSetEquals/bin/Debug/net5.0/JednakostSetEquals.runtimeconfig.json
+/home/kameleon/Desktop/JednakostSetEquals/JednakostSetEquals/bin/Debug/net5.0/JednakostSetEquals.runtimeconfig.dev.json
+/home/kameleon/Desktop/JednakostSetEquals/JednakostSetEquals/bin/Debug/net5.0/JednakostSetEquals.dll
+/home/kameleon/Desktop/JednakostSetEquals/JednakostSetEquals/bin/Debug/net5.0/ref/JednakostSetEquals.dll
+/home/kameleon/Desktop/JednakostSetEquals/JednakostSetEquals/bin/Debug/net5.0/JednakostSetEquals.pdb
+/home/kameleon/Desktop/JednakostSetEquals/JednakostSetEquals/obj/Debug/net5.0/JednakostSetEquals.csprojAssemblyReference.cache
+/home/kameleon/Desktop/JednakostSetEquals/JednakostSetEquals/obj/Debug/net5.0/JednakostSetEquals.GeneratedMSBuildEditorConfig.editorconfig
+/home/kameleon/Desktop/JednakostSetEquals/JednakostSetEquals/obj/Debug/net5.0/JednakostSetEquals.AssemblyInfoInputs.cache
+/home/kameleon/Desktop/JednakostSetEquals/JednakostSetEquals/obj/Debug/net5.0/JednakostSetEquals.AssemblyInfo.cs
+/home/kameleon/Desktop/JednakostSetEquals/JednakostSetEquals/obj/Debug/net5.0/JednakostSetEquals.csproj.CoreCompileInputs.cache
+/home/kameleon/Desktop/JednakostSetEquals/JednakostSetEquals/obj/Debug/net5.0/JednakostSetEquals.dll
+/home/kameleon/Desktop/JednakostSetEquals/JednakostSetEquals/obj/Debug/net5.0/ref/JednakostSetEquals.dll
+/home/kameleon/Desktop/JednakostSetEquals/JednakostSetEquals/obj/Debug/net5.0/JednakostSetEquals.pdb
+/home/kameleon/Desktop/JednakostSetEquals/JednakostSetEquals/obj/Debug/net5.0/JednakostSetEquals.genruntimeconfig.cache
